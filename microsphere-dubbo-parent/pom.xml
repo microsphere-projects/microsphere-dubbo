@@ -75,10 +75,10 @@
                 <version>${spring-cloud.version}</version>
             </dependency>
 
-            <!-- Spring Cloud dubbo Dependencies -->
+            <!-- Spring Cloud Netflix Dependencies -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-dubbo-dependencies</artifactId>
+                <artifactId>spring-cloud-netflix-dependencies</artifactId>
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
